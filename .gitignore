@@ -1,0 +1,3 @@
+ceilometer_notification/log
+ceilometer_notification/nohup.out
+ceilometer_notification/*.pyc
